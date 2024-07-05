@@ -28,4 +28,4 @@
 
 * [Regras](regras.md)
 * [Log - clique aqui para ver meu progresso](log.md)
-* [LEIA-ME](LEIAME.md)
+* [LEIA-ME](README.md)
