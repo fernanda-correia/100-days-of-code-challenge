@@ -1,5 +1,3 @@
-# 100 Days of Code Challenge
-
 # Eu estou participando do desafio #100DaysOfCode
 
 ## Conteúdo
