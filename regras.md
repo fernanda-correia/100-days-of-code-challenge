@@ -6,7 +6,7 @@
 
 #### Data de início
 
-25 de junho, 2016. [COLOQUE SUA DATA AQUI]
+05 de julho de 2024
 
 ## Regras adicionais
 
@@ -28,4 +28,4 @@
 
 * [Regras](regras.md)
 * [Log - clique aqui para ver meu progresso](log.md)
-* [LEIA-ME](LEIAME.md)
+* [LEIA-ME](README.md)
