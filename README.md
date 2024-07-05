@@ -18,7 +18,7 @@
 
 0. Conheça o Site Oficial para o movimento do #100DaysOfCode. Conecte-se com outras pessoas na plataforma de sua escolha a partir dessa lista: www.100DaysOfCode.com/connect Além disso, aqui está um convite para nosso canal de Slack.
 1. Leia Participando do #100DaysOfCode
-2. Dê um fork neste repositório e dê commit o Log, ou a alternativa, o rápido R1 Log (R1 significa Round 1) diariamente. Exemplo.
+2. Dê um fork no repositório base e dê commit o Log, ou a alternativa, o rápido R1 Log (R1 significa Round 1) diariamente.
 3. Programe no mínimo uma hora diariamente pelos próximos 100 dias.
 4. Encoraje, pelo menos, duas pessoas no desafio no Twitter diariamente. Espalhe a mensagem!
 5. Troque a data nas Regras para o dia que você iniciou o desafio.
