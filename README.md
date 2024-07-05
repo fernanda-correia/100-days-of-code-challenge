@@ -1,5 +1,9 @@
 # Eu estou participando do desafio #100DaysOfCode
 
+<p align="center">
+<a><img src="assets/100DaysofCodeBanner.png" border="0"></a>
+</p>
+
 ## Conteúdo
 
 * [Regras](regras.md)
